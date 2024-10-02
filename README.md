@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trishansh and I'm a coder, from Indore</h2>
+<h2 align="left">Hello 👋! I am Trishansh , an aspiring Artifical Intelligence and Data Science Student , Indore </h2>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science Projects<br>👯 I’m looking to collaborate on Data Science<br>🌱 I’m currently learning  Python , DSA<br>🏫 SDSF-DAVV
