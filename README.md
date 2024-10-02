@@ -1,7 +1,7 @@
-<h2 align="left">Hello 👋! I am Trishansh , an aspiring Artifical Intelligence and Data Science Student , Indore </h2>
+<h2 align="left">Hello 👋! I am Trishansh , an aspiring Artifical Intelligence and Data Science Student </h2>
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science Projects<br>👯 I’m looking to collaborate on Data Science<br>🌱 I’m currently learning  Python , DSA<br>🏫 SDSF-DAVV
+🔭 I’m currently working on EDA/FE Projects<br>👯 I’m looking to collaborate in DS/ML <br>🌱 I’m currently learning  Python,SQL,ML <br>🏫 SDSF-DAVV
 
 
 # 💻 Tech Stack:
