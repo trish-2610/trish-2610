@@ -1,5 +1,4 @@
 <h2 align="left">Hello 👋! I am Trishansh , an aspiring Artifical Intelligence and Data Science Student </h2>
-
 # 💫 About Me:
 🔭 I’m currently working on EDA/FE Projects<br>👯 I’m looking to collaborate in DS/ML <br>🌱 I’m currently learning  Python,SQL,ML <br>🏫 SDSF-DAVV
 
