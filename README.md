@@ -1,15 +1,31 @@
-<h2 align="left">Hey👋 I am Trishansh /h2>
-# 💫 About Me:
-🔭 I’m currently working on EDA/FE Projects<br>👯 I’m looking to collaborate in DS/ML <br>🌱 I’m currently learning  Python,SQL,ML<br>🏫 SDSF-DAVV
+![Trishansh Sahane](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trish-2610&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trish-2610&theme=dark&hide_border=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trish-2610&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=trish-2610&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
+<br><br>
+  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
+ · 
+<br>
+<a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
+| <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
+<br>
+ <p align="center">
+ <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/abhinandantrilokia/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.reddit.com/user/Trilokia"><img src="https://img.shields.io/reddit/user-karma/combined/trilokia?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )-->
+<br>
+<br>
 
+
+<p align="center">
+ <i>Take a look at my repositories and let's get in touch!</i>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+</p>
+
+</p>
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
