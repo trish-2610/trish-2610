@@ -1,119 +1,86 @@
-# 👋 Hi, I'm Trishansh Sahane
+# Trishansh Sahane
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%7C%20RAG%20%7C%20Agents-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
-</p>
+AI & Data Science Undergraduate | AI/ML Engineer  
+CGPA: 9.32 | Department Rank: 1  
 
 ---
 
-## 🧠 About Me
+## Summary
 
-I build intelligent systems that actually *work in real-world scenarios*.  
-My focus is on **LLMs, Retrieval-Augmented Generation (RAG), and Multi-Agent Systems**, with strong attention to performance, scalability, and clean system design.
+Aspiring AI/ML Engineer with a strong foundation in Machine Learning, Deep Learning, and Natural Language Processing. Focused on building real-world AI systems using Retrieval-Augmented Generation (RAG), Large Language Models, and Multi-Agent architectures.  
 
-🎓 AI & Data Science Undergraduate (CGPA: **9.32**)  
-🏆 Department Rank **#1**  
-⚡ Strong foundation in ML, NLP, and Applied AI Systems  
+Experienced in developing scalable, efficient, and production-ready AI solutions with an emphasis on performance and practical impact.
 
 ---
 
-## ⚙️ Tech Stack
+## Experience
 
-<p align="center">
+**AI/ML Intern — Bizfy Solutions**  
+- Developed a Retrieval-Augmented Generation (RAG) system for document-based question answering  
+- Improved system efficiency by reducing redundant embedding and vector database operations  
+- Evaluated performance using retrieval accuracy and response quality metrics  
 
-<img src="https://skillicons.dev/icons?i=python,r,sql,tensorflow,sklearn,fastapi,flask,mongodb,mysql,docker,git" />
-  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chroma-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-purple?style=flat-square" />
-</p>
+**AI Intern — Codenscious Technologies**  
+- Built and evaluated Generative AI and Agentic AI models  
+- Developed deployment-ready AI pipelines for end-to-end workflows  
+- Applied NLP and deep learning techniques to real-world problems  
 
 ---
 
-## 🚀 What I Build
+## Projects
 
-### 🔹 Multi-Agent AI Systems
-- Designed agent-based architectures with intelligent routing and supervision  
-- Built real-time structured output pipelines using FastAPI  
+**Multi-Agent Financial Intelligence System**  
+- Designed a multi-agent architecture for real-time financial intelligence  
+- Implemented structured report generation using FastAPI  
+- Integrated external data sources for economic, news, and corporate insights  
 
-### 🔹 RAG-Based Systems
-- Developed document-aware Q&A systems using vector search  
-- Improved accuracy using semantic chunking and retrieval optimization  
+**Multi-Document Policy Analyzer**  
+- Built a RAG-based system for analyzing large-scale policy documents  
+- Implemented semantic search and multi-document retrieval  
+- Designed a response pipeline with source traceability  
 
-### 🔹 AI for Real-World Impact
-- Built multilingual AI assistants with speech capabilities  
-- Created systems that combine APIs, LLMs, and structured reasoning  
-
----
-
-## 💼 Experience
-
-**AI/ML Intern — Bizfy Solutions**
-- Built and optimized a RAG-based document QA system  
-- Reduced latency by eliminating redundant vector operations  
-- Evaluated system performance using retrieval and response metrics  
-
-**AI Intern — Codenscious Technologies**
-- Developed Generative AI and Agentic AI pipelines  
-- Worked on NLP and deep learning applications  
-- Contributed to end-to-end AI system deployment  
+**Krishi-Mitra AI**  
+- Developed a multilingual AI assistant for farmers  
+- Integrated speech-to-text and text-to-speech features  
+- Delivered actionable insights through a simple web interface  
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trish-2610&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=trish-2610&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+**Languages:** Python, R, SQL  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trish-2610&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+**AI/ML:**  
+Machine Learning, Deep Learning, NLP, Generative AI, RAG, Agentic AI, Multi-Agent Systems  
 
----
+**Frameworks & Libraries:**  
+LangChain, LangGraph, FastAPI, TensorFlow, Scikit-learn, NLTK  
 
-## 🏆 Achievements
+**Tools & Databases:**  
+Git, Docker, MongoDB, MySQL, FAISS, Chroma  
 
-- 🥇 Department Rank 1 (Highest SGPA across all semesters)  
-- 🏅 Top Finalist — National Level Hackathon  
-- 🏆 Award for highest GitHub contributions in Hackathon  
-- 🎤 Conducted AI/ML sessions for 60+ students  
+**Other:**  
+Power BI, Excel, Streamlit, Flask  
 
 ---
 
-## 📜 Certifications
+## Achievements
 
-- MCP & AI Agents — Hugging Face  
-- ML, DL & NLP Bootcamp — Udemy  
+- Department Rank 1 (Highest SGPA across all semesters)  
+- Top Finalist in National Level Hackathon  
+- Awarded for highest GitHub contributions in Hackathon  
+- Conducted AI/ML sessions for 60+ participants  
+
+---
+
+## Certifications
+
+- Fundamentals of MCP and AI Agents — Hugging Face  
+- Machine Learning, Deep Learning and NLP Bootcamp  
 - Data Analytics Job Simulation — TATA Group  
 
 ---
 
-## 🌐 Let's Connect
+## Contact
 
-<p align="center">
-  <a href="mailto:sahanetrishansh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/trishansh-sahane2610/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/trish-2610">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ Building intelligent systems that go beyond demos
-</p>
+Email: sahanetrishansh@gmail.com
