@@ -1,7 +1,7 @@
 # Hello I'm Trishansh Sahane
 
-AI & Data Science enthusiast  
-CGPA: 9.32 | Department Rank: 1  
+**Pre-final year student at SDSF DAVV  **
+**CGPA : 9.32 **
 
 ---
 
