@@ -1,7 +1,7 @@
 # Hello I'm Trishansh Sahane
 
-**Pre-final year student at SDSF DAVV  **
-**CGPA : 9.32 **
+**Pre-final year student at SDSF DAVV**
+**CGPA : 9.32**
 
 ---
 
