@@ -1,6 +1,6 @@
-# Trishansh Sahane
+# Hello I'm Trishansh Sahane
 
-AI & Data Science Undergraduate | AI/ML Engineer  
+AI & Data Science enthusiast  
 CGPA: 9.32 | Department Rank: 1  
 
 ---
